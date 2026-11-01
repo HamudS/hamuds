@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Adem 👋
 
-**Full-Stack & AI Software Engineer** building production web applications with **TypeScript, Next.js, React, Python, and Supabase**. I focus on pairing LLM workflows (Google Gemini & OpenAI) with resilient backend engineering—rate-limiting, real-time data sync, observability, and property-based testing.
+**Full-Stack & AI Software Engineer** building production web applications with **TypeScript, Next.js, React, Python, and Supabase**. I focus on pairing LLM workflows with resilient backend engineering—rate-limiting, real-time data sync, observability, and property-based testing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamudseid-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamudseid)
 [![X](https://img.shields.io/badge/X-@HamudSeid-000000?style=flat&logo=x&logoColor=white)](https://x.com/HamudSeid)
